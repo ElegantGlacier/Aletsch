@@ -1,0 +1,5 @@
+{
+    "require": {
+        "elegant-glacier/elegant-glacier": "^1.0"
+    }
+}
