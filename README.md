@@ -36,8 +36,36 @@ No need to mix up php codes and WordPress functions with HTML codes. pass approp
 
 To set up Aletsch on your local environment:
 
-Navigate to Wordpress themes directory,
+1. **Navigate to Wordpress themes directory**
 
-1. **Clone the repository**:
+2. **Clone the repository**:
    ```bash
    git clone https://github.com/ElegantGlacier/Aletsch.git
+
+3. **Navigate to Aletsch directory**
+
+4. **Run the following command to require ElegantGlacier using Composer:**:
+   ```bash
+   composer require elegant-glacier/elegant-glacier
+
+Done. Now you can start developing your own templates and ui or just use the default one.
+
+---
+
+**Contributing**
+
+We welcome contributions from the community! To get started:
+
+1. **Fork the repository**
+
+2. **Create a branch:**
+    ``bash
+    git checkout -b feature/your-feature
+
+3. **Commit your changes and push:**
+    ``bash
+    git commit -m "Added new feature"
+    ``bash
+    git push origin feature/your-feature
+
+4. **Create a pull request: Describe your changes and open a PR**
