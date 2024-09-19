@@ -22,13 +22,13 @@ No need to mix up php codes and WordPress functions with HTML codes. pass approp
 
 ### Landing
 
-![Dashboard Screenshot](images/home.png)
-*Figure 3: Overview of the Aletsch landing*
+![Landing Screenshot](images/home.png)
+*Overview of the Aletsch landing*
 
 ### Single Page
 
-![Admin Panel Screenshot](images/single.png) 
-*Figure 4: Aletsch Single Page or Post*
+![Single Page Screenshot](images/single.png) 
+*Aletsch Single Page or Post*
 
 ---
 
