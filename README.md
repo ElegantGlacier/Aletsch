@@ -66,7 +66,6 @@ We welcome contributions from the community! To get started:
     ```bash
     git commit -m "Added new feature"
     
-    ```bash
     git push origin feature/your-feature
 
 4. **Create a pull request: Describe your changes and open a PR**
