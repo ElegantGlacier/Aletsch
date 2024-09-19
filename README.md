@@ -59,13 +59,14 @@ We welcome contributions from the community! To get started:
 1. **Fork the repository**
 
 2. **Create a branch:**
-    ``bash
+    ```bash
     git checkout -b feature/your-feature
 
 3. **Commit your changes and push:**
-    ``bash
+    ```bash
     git commit -m "Added new feature"
-    ``bash
+    
+    ```bash
     git push origin feature/your-feature
 
 4. **Create a pull request: Describe your changes and open a PR**
