@@ -1,6 +1,6 @@
 # Aletsch
 
-**Aletsch** is a default WordPress theme created using ElegantGlacier with a clean MVC architecture, Aletsch offers ElegantGlacier's routing system, controllers similar to that of Laravel, twig template engine and TailwindCSS as a rich utility-first CSS framework to streamline a cleaner WordPress development with the aid of ElegantGlacier.
+**Aletsch** is a default WordPress theme created using ElegantGlacier with a clean MVC architecture. Aletsch offers ElegantGlacier's routing system, controllers similar to that of Laravel, twig template engine and TailwindCSS as a rich utility-first CSS framework to streamline a cleaner WordPress development with the aid of ElegantGlacier.
 
 ---
 
