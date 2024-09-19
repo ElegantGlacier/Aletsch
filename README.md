@@ -52,7 +52,7 @@ Done. Now you can start developing your own templates and UI or just use the def
 
 ---
 
-**Contributing**
+## Contributing
 
 We welcome contributions from the community! To get started:
 
