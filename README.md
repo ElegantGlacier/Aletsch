@@ -4,35 +4,15 @@
 
 ---
 
-## Table of Contents
-
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Roadmap](#roadmap)
-- [License](#license)
-
----
-
-## Introduction
-
-Aletsch is a [brief introduction—what it is and why it exists]. It is specifically built to [explain key problem-solving goal]. The project leverages [programming languages, frameworks, or technologies] and aims to [specific mission statement].
-
----
-
 ## Features
 
 Some key features of Aletsch:
 
 - **Router:** 
 WordPress routing is a mess; but with the help of Elegant and Aletsch, a clean and observable routing system is achieved.
-- **Controller**
+- **Controller:**
 Take control of every action that needs to be taken for every route and connect them to desired views. 
-- **Twig Template Engine**
+- **Twig Template Engine:**
 No need to mix up php codes and WordPress functions with HTML codes. pass appropriate context to html pages in a structured manner. 
 
 
