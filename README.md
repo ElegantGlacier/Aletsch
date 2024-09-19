@@ -48,7 +48,7 @@ To set up Aletsch on your local environment:
    ```bash
    composer require elegant-glacier/elegant-glacier
 
-Done. Now you can start developing your own templates and ui or just use the default one.
+Done. Now you can start developing your own templates and UI or just use the default one.
 
 ---
 
